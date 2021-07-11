@@ -1,0 +1,27 @@
+body{
+    background-color: violet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-body{
+    background-color:white
+}
+.card{
+    background-color:white;
+}
+.card-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color:red;
+}
+.card-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: black;
+}
+.main{
+    font-family: 'Courier New', Courier, monospace;
+    color: rebeccapurple;
+}.about{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
